@@ -1,8 +1,12 @@
-function add(a,b)
-{
-    return (a+b)
-    
+var season="spring"
+if (season =="spring"){
+    console.log("enjoy")
 }
+else if (season=="summer"){
+    console.log("have fun")
 
-add(2,3)
+}
+else{
+    console.log("so sad")
 
+}
